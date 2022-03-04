@@ -33,7 +33,7 @@ def open_file():
         page = read_pdf.getPage(0)
         page_content = page.extractText()
         
-        # Text widget
+        # Text widget.
 
 
 #browse button
